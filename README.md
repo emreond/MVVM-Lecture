@@ -3,7 +3,7 @@
 
 [![Swift Version][swift-image]][swift-url]
 
-Simple project which I used in my mvvm lecture presentations.
+Simple project which I use in my mvvm lecture presentations.
 
 ## Requirements
 
